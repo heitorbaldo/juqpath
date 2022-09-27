@@ -1,8 +1,8 @@
-.. image:: logo_new.png
+image:: logo_new.png
    :width: 410px
 
 
-.. image:: https://colab.research.google.com/assets/colab-badge.svg
+image:: https://colab.research.google.com/assets/colab-badge.svg
         :target: https://colab.research.google.com/github/
 
 
